@@ -22,10 +22,13 @@ Develop resource
 <h2>nodejsTool</h2>
 
 <p>
-    <a href="https://miduowiki.github.io/dev-tool/docs/nodejsTestTool">nodejs自动化测试工具</a>
+    <a href="https://miduowiki.github.io/dev-tool/docs/nodejsTestTool">nodejs自动化测试</a>
 </p>
 <p>
     <a href="https://www.telerik.com/fiddler">抓包工具fiddle</a>
+</p>
+<p>
+      <a href="https://github.com/expressjs/cors">跨域工具</a>
 </p>
 
 <h2>微信小程序</h2>
