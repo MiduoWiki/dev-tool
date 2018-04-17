@@ -9,3 +9,7 @@ Develop resource
 
 <a href="https://miduowiki.github.io/dev-tool/docs/nodejsTestTool">nodejs自动化测试工具</a>
 
+<h2>微信小程序</h2>
+
+<a href="https://github.com/MiduoWiki/weiApp-new">小程序功能测试项目</a>
+
