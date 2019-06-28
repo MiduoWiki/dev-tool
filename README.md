@@ -44,6 +44,15 @@ Develop resource
 
 <p>
     <a href="https://github.com/vuejs-templates">vue-cli2.0模板仓库地址vuejs-templates</a>
+    <p>手动下载下来,把模板放在temp的路径下，或者修改tmp的路径为你下载好的模板地址，使用离线下载</p>
+    <code>
+        const tmp = path.join(home, '.vue-templates', template.replace(/[\/:]/g, '-'))
+
+        if (program.offline) {
+          console.log(`> Use cached template at ${chalk.yellow(tildify(tmp))}`)
+          template = tmp
+        }
+    </code>
 </p>
 
 
