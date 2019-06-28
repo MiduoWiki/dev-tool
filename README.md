@@ -40,3 +40,11 @@ Develop resource
     <a href="https://github.com/MiduoWiki/weiApp-new">小程序功能测试项目</a>
 </p>
 
+<h2>git仓库地址</h2>
+
+<p>
+    <a href="https://github.com/vuejs-templates">vue-cli2.0模板仓库地址vuejs-templates</a>
+</p>
+
+
+
