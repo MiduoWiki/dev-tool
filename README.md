@@ -58,5 +58,9 @@ Develop resource
     </code>
 </p>
 
+<h2>React资料<h2>
+<p>
+    <a href="https://github.com/Ibaslogic/i18n_react_intl_starter">react-intl-demo</a>
+</p>
 
 
